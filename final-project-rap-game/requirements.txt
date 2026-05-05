@@ -1,0 +1,10 @@
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+pronouncing
+billboard.py
+lyricsgenius
+python-dotenv

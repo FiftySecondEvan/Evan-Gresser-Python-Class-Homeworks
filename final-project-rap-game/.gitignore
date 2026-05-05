@@ -1,0 +1,15 @@
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+
+# OS/editor noise
+.DS_Store
+
+# Generated source-ladder outputs
+data/raw/billboard_rap_50_*.csv
